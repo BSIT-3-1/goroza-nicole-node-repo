@@ -1,0 +1,12 @@
+{
+  "name": "diamond",
+  "version": "1.0.0",
+  "description": "This is a diamond.",
+  "main": "diamond.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "author": "Nicole Goroza",
+  "license": "MIT"
+}
